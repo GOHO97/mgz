@@ -15,7 +15,7 @@ API 서버와 연계되는 프로세스가 있다보니 모든 서버를 켜둘 
 ![image](https://user-images.githubusercontent.com/101491213/198169579-c612dee0-7517-471b-9cca-db6947a0778d.png)
   
 1. 블록체인 네트워크를 이용한 회원 가입 및 로그인  
-https://ubiquitous-sprite-121.notion.site/72a33baf58d9417689929911ed2e55db
+https://ubiquitous-sprite-121.notion.site/72a33baf58d9417689929911ed2e55db  
 위 내용을 통해 블록체인 정보를 JSON으로 주고 받는 로직은 구현 했으나 실제 회원가입, 로그인 기능에는 적용하지 못했습니다.  
 
 ![image](https://user-images.githubusercontent.com/101491213/198166831-aa5ab0cc-1a44-460f-a0a6-3e2721913cf5.png)
